@@ -1,0 +1,43 @@
+- city: 'Paris'
+  user: 'Jean Pierre'
+  accomodates:
+  address: "2 rue des pommes"
+  bathroom: 1
+  quality: "Good bed"
+  bedrooms: 1
+  beds: 1
+  type: "appartment"
+  amenties: "wifi"
+  picture: http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1487701021/eiffel-tower-paris-france-EIFFEL0217.jpg?itok=m0MZOYjh
+  avatar: ../images/dv.png
+
+
+
+- city: 'London'
+  user: 'Marc Morris'
+  address: "21 down street"
+  accomodates: 1
+  bathroom: 1
+  quality: "Bad bed"
+  bedrooms: 1
+  beds: 1
+  type: "appartment"
+  amenties: "nope"
+  picture: http://www.telegraph.co.uk/content/dam/video_previews/x/5/x5cgi0ode66q6vuxezqmehmexwer6bt-xlarge.jpg
+  avatar: http://www.starwars-universe.com/images/encyclopedie/personnages/avatars_v6/luke_avv6.jpg
+
+- city: 'NY'
+  user: 'John Doe'
+  address: "22144 21 street"
+  accomodates: 2
+  bathroom: 2
+  quality: "Best bed"
+  bedrooms: 2
+  beds: 4
+  type: "house"
+  amenties: "wifi"
+  picture: https://www.nycgo.com/images/uploads/homepage/Empire-State-Building-Observatory-Tom-Perry-2618.jpg
+  avatar: https://images.moviepilot.com/image/upload/c_fill,h_64,q_auto,w_64/mi3fwow7v0ymtghqzxab.jpg
+
+
+
